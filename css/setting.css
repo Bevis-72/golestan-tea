@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0; }
+  
+  @font-face {
+    font-family: IMB;
+    src: url(../font/IBMPlexSansArabic-Medium.eot);
+    src: url(../font/IBMPlexSansArabic-Medium.ttf);
+    src: url(../font/IBMPlexSansArabic-Medium.woff);
+    src: url(../font/IBMPlexSansArabic-Medium.woff2); }
